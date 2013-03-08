@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo 'Test Hybridpai Ver1';
+        echo 'Test Hybridpai Ver2';
         ?>
     </body>
 </html>
